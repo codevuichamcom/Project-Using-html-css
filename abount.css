@@ -1,0 +1,18 @@
+/* About my cake */
+.about{
+    padding-left: 22px;
+}
+.about-title{
+    font-size: 28px;
+    font-family: 'Times New Roman',Helvetica,Arial,sans-serif;
+}
+.image-right{
+    float: right;
+    width: 332.76px;
+    border-radius: 10px;
+    margin-left: 1rem;
+}
+
+.about-content p{
+    line-height: 23px;
+}
