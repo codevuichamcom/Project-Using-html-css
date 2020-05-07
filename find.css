@@ -1,0 +1,39 @@
+/* Find Maria's Cafe */
+
+.find-title{
+    font-size: 28px;
+}
+.contact-and-schedule{
+    border-bottom: 3px dotted #ccc;
+    margin-bottom: 1rem;
+}
+.contact-and-schedule{
+    display: flex;
+}
+.find-contact{
+    width: 50%;
+}
+.find-schedule{
+    width: 50%;
+}
+.find-contact-header, .schedule-header{
+    font-size: 22px;
+    margin-top: 32px;
+}
+.find-contact-header{
+    margin-bottom: 27px;
+}
+.detail{
+    margin-bottom: 32px;
+}
+.tell{
+    margin-left: 5rem;
+    text-decoration: underline;
+}
+.email{
+    margin-left: 4rem;
+    text-decoration: underline;
+}
+.map img{
+    width: 100%;
+}
